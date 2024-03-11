@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Iñigo Quintana Delgadillo
+# Hi there 👋, I'm Iñigo Quintana Delgadillo
 
 <!--
 **Inigo1405/Inigo1405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
