@@ -65,11 +65,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=inigo1405&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/inigo1405/inigo1405/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h3 align="left">Profile views:</h3>
 
