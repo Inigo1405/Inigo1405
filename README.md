@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Iñigo Quintana from Mexico<br><br>- 🔭 I’m Computer Systems Engineering Student.<br>- 📚 I'm currently learning AI and computer vision.</p>
+<p align="left">I'm Iñigo Quintana Delgadillo from Mexico<br><br>- 🔭 I’m Computer Systems Engineering Student.<br>- 📚 I'm currently learning AI and computer vision.</p>
 
 ###
 
