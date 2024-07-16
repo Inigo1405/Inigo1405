@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/90921736?s=400&u=bc93bcf8691cc022321f75b1061cf6a795340bff&v=4"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/i%C3%B1igo-quintana/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
