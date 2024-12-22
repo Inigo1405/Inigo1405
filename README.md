@@ -52,6 +52,55 @@
 ###
 
 <div align="center">
+
+
+
+# Hi there, I'm Inigo1405! 👋
+
+## About Me
+
+I'm a passionate developer who loves coding and learning new technologies. I enjoy solving problems and building projects that can make a difference. 
+
+## Skills
+
+- **Languages:** 
+  - Python
+  - JavaScript
+  - Java
+  - C++
+  - HTML & CSS
+
+- **Frameworks and Libraries:**
+  - React
+  - Node.js
+  - Django
+  - Flask
+
+- **Tools and Platforms:**
+  - Git & GitHub
+  - Docker
+  - Kubernetes
+  - AWS
+
+## Projects
+
+### [Project 1](https://github.com/Inigo1405/project1)
+Description of Project 1. What it does, why it's useful, and key features.
+
+### [Project 2](https://github.com/Inigo1405/project2)
+Description of Project 2. What it does, why it's useful, and key features.
+
+## GitHub Stats
+
+![Inigo1405's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inigo1405&show_icons=true&theme=radical)
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/Inigo1405)
+- [Twitter](https://twitter.com/Inigo1405)
+- [Email](mailto:Inigo1405@example.com)
+
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech.
   <img src="https://github-readme-stats.vercel.app/api?username=inigo1405&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inigo1405&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=false&order=2" height="170" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=inigo1405&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
