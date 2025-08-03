@@ -1,8 +1,4 @@
-###
-
-<h1 align="center">Hey there 👋</h1>
-
-###
+# Hey there 👋
 
 <div align="center">
   <a href="https://www.linkedin.com/in/inigo-quintana/" target="_blank">
@@ -13,43 +9,57 @@
   </a>
 </div>
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👩‍💻 About Me
 
-###
+I'm Iñigo Quintana Delgadillo from Mexico
 
-<p align="left">I'm Iñigo Quintana Delgadillo from Mexico<br><br>- 🔭 I’m Computer Systems Engineering Student.<br>- 📚 I'm currently learning AI and computer vision.</p>
+- 🔭 I'm Computer Systems Engineering Student
+- 📚 I'm currently learning AI and computer vision
 
-###
+## 🛠 Tech Stack
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+### Programming Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" title="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" title="JavaScript" />
 </div>
 
-###
+### Frontend Development
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" title="HTML5" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" title="CSS3" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" title="React" />
+</div>
 
-<h3 align="left">🔥   My Stats :</h3>
+### Backend & Database
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask" title="Flask" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL" title="PostgreSQL" />
+</div>
 
-###
+### Tools & Platforms
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" title="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" title="GitHub" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" title="VS Code" />
+</div>
+
+### Currently Learning
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" title="TensorFlow" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="50" alt="OpenCV" title="OpenCV" />
+</div>
+
+## 🔥 My Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=inigo1405&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
